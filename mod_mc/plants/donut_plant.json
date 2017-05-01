@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Mmmmmmmmm ... Donuts (sorry, had to be done :)"
+    "default": "Mmmmmmmmm ... Donuts"
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

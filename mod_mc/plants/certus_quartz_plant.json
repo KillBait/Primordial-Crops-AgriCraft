@@ -1,7 +1,7 @@
 {
   "path": "mod_mc/plants/certus_quartz_plant.json",
   "enabled": true,
-  "id": "air_plant",
+  "id": "certus_quartz_plant",
   "plant_name": "Certus Quartz",
   "seed_name": "Certus Quartz Seeds",
   "seed_items": [
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Certus Quartz. can be Applied to many things ( pun intended! )"
+    "default": "Certus Quartz. can be Applied to many things"
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

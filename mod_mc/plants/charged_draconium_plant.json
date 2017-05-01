@@ -1,7 +1,7 @@
 {
   "path": "mod_mc/plants/charged_draconium_plant.json",
   "enabled": true,
-  "id": "air_plant",
+  "id": "charged_draconium_plant",
   "plant_name": "Charged Draconium",
   "seed_name": "Charged Draconium",
   "seed_items": [

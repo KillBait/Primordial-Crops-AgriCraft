@@ -1,7 +1,7 @@
 {
   "path": "mod_mc/plants/cyanite_plant.json",
   "enabled": true,
-  "id": "air_plant",
+  "id": "cyanite_plant",
   "plant_name": "Cyanite",
   "seed_name": "Cyanite Seeds",
   "seed_items": [
