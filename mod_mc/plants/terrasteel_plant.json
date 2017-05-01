@@ -36,7 +36,7 @@
         "max": 4,
         "chance": 0.95,
         "required": true,
-        "item": "mc:TeraSteelEssence",
+        "item": "mc:TerraSteelEssence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
