@@ -6,7 +6,7 @@
   "seed_name": "Prismarine Seeds",
   "seed_items": [
     {
-      "item": "mc:PrismarineSeeds",
+      "item": "mc:PrismarineShardSeeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
