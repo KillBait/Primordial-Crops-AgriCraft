@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "mc:items/CobaltSeed",
+    "seed_texture": "mc:items/CobaltSeeds",
     "plant_textures": [
       "mc:blocks/CropBase_0",
       "mc:blocks/CropBase_0",
