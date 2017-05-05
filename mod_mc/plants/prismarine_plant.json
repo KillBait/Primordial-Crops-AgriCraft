@@ -36,7 +36,7 @@
         "max": 4,
         "chance": 0.95,
         "required": true,
-        "item": "mc:PrismarineEssence",
+        "item": "mc:PrismarineShardEssence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
